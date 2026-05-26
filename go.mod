@@ -7,8 +7,8 @@ retract v4.10.0 // invalid filename causes go get/install failure (#5211)
 require (
 	github.com/gobuffalo/flect v1.0.3
 	github.com/h2non/gock v1.2.0
-	github.com/onsi/ginkgo/v2 v2.29.0
-	github.com/onsi/gomega v1.41.0
+	github.com/onsi/ginkgo/v2 v2.28.3
+	github.com/onsi/gomega v1.40.0
 	github.com/spf13/afero v1.15.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
